@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=60&duration=3000&pause=500&color=F7F7F7&width=800&height=100&lines=Hello!;My+name+is+Reyhan!;Welcome+to+my+GitHub+Repo!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=60&duration=3000&pause=500&color=2EABF7FF&width=800&height=100&lines=Hello!;My+name+is+Reyhan!;Welcome+to+my+GitHub+Repo!)](https://git.io/typing-svg)
 <table>
   <tr>
     <td>
