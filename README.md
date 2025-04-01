@@ -13,9 +13,16 @@ I am a penultimate-year Computer Science student at **University of Indonesia** 
       <img src="https://streak-stats.demolab.com/?user=lontonggg&theme=dark" alt="GitHub Streak"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=lontonggg&theme=onedark" alt="GitHub Trophy"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lontonggg&layout=compact&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Languages"/>
+    </td>
+  </tr>
 </table>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lontonggg&theme=onedark)](https://github.com/lontonggg)  
 
 ---
 
@@ -30,9 +37,11 @@ I am a penultimate-year Computer Science student at **University of Indonesia** 
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
