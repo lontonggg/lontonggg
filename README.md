@@ -1,9 +1,9 @@
-# 💻 About Me  
-A penultimate year Computer Science student at **University of Indonesia**  
+## About Me  
+I am a penultimate-year Computer Science student at **University of Indonesia** with a strong passion for **Software Engineering** and **Data Science**. I have a deep interest in **full-stack development**, **machine learning**, and **cloud computing**. My focus is on building scalable, efficient applications while also exploring the potential of AI and big data to drive innovation.
 
 ---
 
-# 📊 GitHub Stats  
+## GitHub Stats  
 <table>
   <tr>
     <td>
@@ -19,13 +19,14 @@ A penultimate year Computer Science student at **University of Indonesia**
 
 ---
 
-# 🛠 Tech Stack  
+## Tech Stack  
 <table>
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
     <th>Languages</th>
     <th>ORM & Databases</th>
+    <th>Data Science</th>
   </tr>
   <tr>
     <td>
@@ -53,12 +54,18 @@ A penultimate year Computer Science student at **University of Indonesia**
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-0063C1?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+    </td>
   </tr>
 </table>  
 
 ---
 
-# 🔧 Tools & Platforms  
+## Tools & Platforms  
 <table>
   <tr>
     <th>DevOps & Tools</th>
@@ -76,7 +83,7 @@ A penultimate year Computer Science student at **University of Indonesia**
 
 ---
 
-# 🔗 Connect with Me  
+## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhanzada)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rehanzadaa)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zadareyhan)  
