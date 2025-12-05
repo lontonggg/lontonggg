@@ -1,5 +1,7 @@
 ## About Me  
+
 I am a final-year Computer Science student at **University of Indonesia**. I’ve worked on real-world **AI** and **cloud** projects, sharpening my analytical and collaborative skills through hands-on development of scalable systems. **Curious**, **adaptive**, and **driven**, I’m eager to continue building impactful technology, deepen my expertise in **Software Engineering** and **Artificial Intelligence**, and contribute to solutions that push innovation forward.
+
 ---
 
 ## GitHub Stats  
