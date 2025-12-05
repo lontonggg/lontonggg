@@ -1,6 +1,5 @@
 ## About Me  
-I am a penultimate-year Computer Science student at **University of Indonesia** with a strong passion for **Software Engineering** and **Data Science**. I have a deep interest in **full-stack development**, **machine learning**, and **cloud computing**. My focus is on building scalable, efficient applications while also exploring the potential of AI and big data to drive innovation.
-
+I am a final-year Computer Science student at **University of Indonesia**. I’ve worked on real-world **AI** and **cloud** projects, sharpening my analytical and collaborative skills through hands-on development of scalable systems. **Curious**, **adaptive**, and **driven**, I’m eager to continue building impactful technology, deepen my expertise in **Software Engineering** and **Artificial Intelligence**, and contribute to solutions that push innovation forward.
 ---
 
 ## GitHub Stats  
